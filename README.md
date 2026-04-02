@@ -34,6 +34,8 @@ The approach followed these three core phases:
 - Revealed that the **'Referral channel'** generates the **highest user equity at ~$220K** compared to other channels.
 
 <img width="1651" height="917" alt="image" src="https://github.com/user-attachments/assets/704eaea0-c987-44dc-9d9e-92205460bf6e" />
+<img width="1642" height="913" alt="image" src="https://github.com/user-attachments/assets/e8f7fe20-5f7b-4c3b-a7db-18d81180c525" />
+
 
   
 ## Business Impact

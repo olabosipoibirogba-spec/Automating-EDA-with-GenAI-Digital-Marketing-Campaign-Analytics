@@ -32,6 +32,9 @@ The approach followed these three core phases:
 - Results revealed that **60% of our current pay per click (PPC) and Social spend is being exhausted on "Low Priority"** segments with less than a 10% conversion probability
 - Discovered a massive **4.2x increase in conversion once a user crosses the 3.5-minute threshold on the website**. However, **most users currently drop off at just 2.2 minutes**, missing this "Golden Threshold".
 - Revealed that the **'Referral channel'** generates the **highest user equity at ~$220K** compared to other channels.
+
+<img width="1651" height="917" alt="image" src="https://github.com/user-attachments/assets/704eaea0-c987-44dc-9d9e-92205460bf6e" />
+
   
 ## Business Impact
 - 40% Reduction in manual data processing and cleaning time.

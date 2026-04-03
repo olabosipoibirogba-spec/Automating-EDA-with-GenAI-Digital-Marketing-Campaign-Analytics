@@ -15,17 +15,17 @@ I architected an automated EDA pipeline using Python and Large Language Models (
 - Imbalance Detection: Instantly identified an 85/15 conversion imbalance, allowing for immediate application of SMOTE/resampling techniques before model training.
 
 ## Technical Stack
-Language: Python (Pandas, NumPy, Matplotlib, Seaborn)
+Language: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, LLMs
 
 ## Data Source
 Data Techcon dataset includes schemas such as, Customer ID, Ad Spend, Conversion Rate, Time on Site, etc.
 
 ## Methodology
-The approach followed these three core phases:
-- **Phase 1: Foundational Benchmarking** – Established performance baselines using Logistic Regression for conversion and Simple Linear Regression for Customer Lifetime Value (CLV) to provide a grounded starting point for model comparison.
-- **Phase 2: High-Performance Modeling** – Implemented a dual-stream predictive architecture using XGBoost for precise conversion classification and Random Forest Regression to predict long-term CLV.
-- **Phase 3: Refinement & Insight Synthesis** – Performed hyperparameter tuning to reach 84.2% model accuracy and utilized binned behavioral analysis to identify the "Golden Threshold" for user engagement.
-**This end-to-end process was managed using Python for ETL and feature engineering, with Power BI serving as the final platform for executive and strategic data visualization**.
+- Data Integration: Collected and unified multi-channel marketing data (Google Ads, Facebook, Email, Influencer) using Python and SQL, ensuring consistent schema across campaign, customer, and performance metrics.
+- Data Cleaning & Validation: Performed preprocessing including handling missing values, removing duplicates, standardizing categorical fields, and validating key metrics (e.g., CTR, conversion rates within expected bounds).
+- GenAI-Enhanced EDA Pipeline: Built an automated EDA workflow integrating GenAI (LLM) in Python (Pandas, Matplotlib, Seaborn) to quickly extract insights from large marketing datasets.
+- Performance & Behavioral Analysis: Evaluated channel effectiveness and customer engagement patterns using key metrics (ad spend, CTR, conversion rate), identifying high-performing segments and inefficiencies.
+- Insight Generation & Business Recommendations: Translated analytical findings into actionable insights to optimize budget allocation, improve campaign performance, and support data-driven marketing decisions.
 
 ## Key Insights
 - I found that the Behavior > Demographics: That is, **'Loyalty Points'** and **'Time on Site'** had a **3.5x higher correlation with conversion than Age or Income**.

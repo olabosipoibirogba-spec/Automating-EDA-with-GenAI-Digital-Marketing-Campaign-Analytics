@@ -40,8 +40,9 @@ The approach followed these three core phases:
 
   
 ## Business Impact
-- 40% Reduction in manual data processing and cleaning time.
-- Optimized $1.1M Ad Spend by shifting focus from low-intent demographic segments to high-intent behavioral segment.
+- Reduced manual analysis time by over 40%
+- Identified high-ROI channels and underperforming segments
+- Enabled faster, data-driven marketing decisions
 - Improved Decision Speed: Provided the Head of Growth with real-time anomaly detection and Predicted ROI metrics.
 
 ## Recommendations
